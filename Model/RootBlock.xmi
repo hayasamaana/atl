@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapelanguage:RootBlock
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:shapelanguage="http://shapelanguage.com"
+    xsi:schemaLocation="http://shapelanguage.com ../../ShapeLanguage/shapelanguage.ecore"
+    name="teststsststssttt"/>

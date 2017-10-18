@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<families:Family
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:families="http://families.com"
+    xsi:schemaLocation="http://families.com Families.ecore"
+    lastName="Samaana">
+  <father firstName="Yaser"/>
+  <mother firstName="Hala"/>
+  <sons firstName="Amer"/>
+  <daughters
+      firstName="Hadia"/>
+</families:Family>
